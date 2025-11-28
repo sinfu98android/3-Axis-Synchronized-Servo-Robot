@@ -24,6 +24,7 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 **Communication**: RS485, CAN, Modbus RTU, Ethernet<br>
 **Control Systems**: Motion control (servo synchronization), PLC integration<br>
 **Software Design**: Real-time scheduling, IPC, memory-safe design<br>
+**Tools:** GCC, CMake, Git
 
 
 ## Repository Contents
